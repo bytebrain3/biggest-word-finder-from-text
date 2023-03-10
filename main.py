@@ -40,6 +40,3 @@ def main():
 	else:
 		main()
 main()
-
-
-()
